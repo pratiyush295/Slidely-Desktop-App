@@ -1,0 +1,17 @@
+D:\SLIDELY\Slidely-task-2\Slidely-task-2\bin\Debug\Slidely-task-2.exe.config
+D:\SLIDELY\Slidely-task-2\Slidely-task-2\bin\Debug\Slidely-task-2.exe
+D:\SLIDELY\Slidely-task-2\Slidely-task-2\bin\Debug\Slidely-task-2.pdb
+D:\SLIDELY\Slidely-task-2\Slidely-task-2\bin\Debug\Slidely-task-2.xml
+D:\SLIDELY\Slidely-task-2\Slidely-task-2\obj\Debug\Slidely-task-2.vbproj.AssemblyReference.cache
+D:\SLIDELY\Slidely-task-2\Slidely-task-2\obj\Debug\Slidely_task_2.CreateSubmissionForm.resources
+D:\SLIDELY\Slidely-task-2\Slidely-task-2\obj\Debug\Slidely_task_2.Form1.resources
+D:\SLIDELY\Slidely-task-2\Slidely-task-2\obj\Debug\Slidely_task_2.Resources.resources
+D:\SLIDELY\Slidely-task-2\Slidely-task-2\obj\Debug\Slidely_task_2.ViewSubmissionsForm.resources
+D:\SLIDELY\Slidely-task-2\Slidely-task-2\obj\Debug\Slidely-task-2.vbproj.GenerateResource.cache
+D:\SLIDELY\Slidely-task-2\Slidely-task-2\obj\Debug\Slidely-task-2.vbproj.CoreCompileInputs.cache
+D:\SLIDELY\Slidely-task-2\Slidely-task-2\obj\Debug\Slidely-task-2.exe
+D:\SLIDELY\Slidely-task-2\Slidely-task-2\obj\Debug\Slidely-task-2.xml
+D:\SLIDELY\Slidely-task-2\Slidely-task-2\obj\Debug\Slidely-task-2.pdb
+D:\SLIDELY\Slidely-task-2\Slidely-task-2\bin\Debug\Newtonsoft.Json.dll
+D:\SLIDELY\Slidely-task-2\Slidely-task-2\bin\Debug\Newtonsoft.Json.xml
+D:\SLIDELY\Slidely-task-2\Slidely-task-2\obj\Debug\Slidely-.C05204DC.Up2Date
